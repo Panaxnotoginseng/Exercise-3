@@ -7,4 +7,6 @@ Packages needed for “Pinyin” code to work are: re, torch, torch.nn.functiona
 
 Sentence "%matplotlib inline" can be used to show figures in notebook, then "plt.show" will not be needed. But this will not work in Pycharm.
 
-Chinese name data sourse: https://github.com/wainshine/Chinese-Names-Corpus/tree/master (100 000 names are used in training).
+100 000 names are used in training, saved in More Chinese Names.txt.
+
+Chinese name data sourse: https://github.com/wainshine/Chinese-Names-Corpus/tree/master
